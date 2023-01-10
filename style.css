@@ -56,3 +56,19 @@ section {
     display: flex;
     margin-left: 22rem;
 }
+
+.lang-code {
+    text-align: left;
+    margin-left: 18rem;
+    margin-top: 5rem;
+}
+
+.lang-code h1 {
+    color: var(--mixed-green);
+    font-size: 3.4rem;
+}
+
+.lang-code p {
+    color: var(--cream);
+    font-size: 1.4rem;
+}
